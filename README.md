@@ -1,4 +1,4 @@
-# ProjectOne
+# Parlor Flix
 Bootcamp collaborative project
 
 # Welcome to Parlor Flix
