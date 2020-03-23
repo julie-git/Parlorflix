@@ -7,7 +7,7 @@ Bootcamp collaborative project
 
 ## How to use:
 
-*Launch Parlor Flix: https://tysonvonnbeck.github.io/ProjectOne/*
+Launch Parlor Flix: https://julie-git.github.io/Parlorflix/
 
 **Search**
 
