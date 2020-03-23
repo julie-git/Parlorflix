@@ -24,10 +24,10 @@ Once you’ve clicked a movie it will open in our Flix Capacitor, a window that 
 * MPAA rating 
 * A poster 
 * Critic ratings: 
-* - Rotten Tomatoes 
-* - IMDB 
-* - Metacritic 
-* *(When available)*
+* Rotten Tomatoes 
+*  IMDB 
+* Metacritic 
+* (When available)*
 * Movie trailer
 * A link to where you can find your movie  streaming. 
 *Note: Our app currently supports Netflix, Hulu and Amazon Prime.*
